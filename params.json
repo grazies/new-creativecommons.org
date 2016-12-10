@@ -1,0 +1,6 @@
+{
+  "name": "New-creativecommons.org",
+  "tagline": "",
+  "body": "# CC 2016 base site\r\n\r\nThese are the static files and WordPress plugins required for the Creative Commons website, https://creativecommons.org as of June 2016.\r\n\r\nYou'll also need:\r\n\r\n- new-www-theme (the theme, to make it look lovely)\r\n- new-www-plugins (the various custom plugins for content types, mostly)\r\n- creativecommons.org (if you want the license chooser and license display code)\r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
